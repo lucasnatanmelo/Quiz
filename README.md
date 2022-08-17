@@ -1,6 +1,6 @@
 # Quiz
 
-Link: https://lucasnatanmelo.github.io/quiz/
+Link: https://lucasnatanmelo.github.io/Quiz/
 
 ## Sobre o projeto:
 Quiz de perguntas sobre JavaScript utilizando HTML, CSS e JavaScript
